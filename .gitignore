@@ -1,0 +1,8 @@
+*__pycache__
+.mypy_cache/
+*.txt
+!requirements.txt
+!subdomains.txt
+!pathes.txt
+results/*
+venv/
